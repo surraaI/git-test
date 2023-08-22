@@ -1,0 +1,111 @@
+header{
+    background-color: #1F2937;
+    color:White;
+    padding: 20px 200px;
+    
+}
+nav {
+    display: flex;
+    gap: 20px;
+    
+}
+#header{
+    font-size: 24px;
+    color:#f9faf8;
+    font-weight: bolder;
+    margin-right: auto;
+    
+}
+#ggg{ 
+
+    display: flex;
+    
+    
+}
+#im {
+    width: 600px;
+    height: 300px;
+    margin: 20px;
+    margin-right: 0px;
+}
+
+#headerLogo{
+    font-size: 24px;
+    color: #f9faf8;
+    margin-right: auto;
+    
+    
+}
+.abc{
+    
+    font-size: 48px;
+    font-weight: bolder;
+    
+}
+button{
+    background-color: #3882f6;
+    width:100px;
+    color: white;
+
+}
+
+#secText{
+
+    font-size: 18PX;
+    color: #e5e7eb;
+    
+}
+#sec2{
+    display: flex;
+    justify-content: space-around;
+}
+h2{
+    text-align: center; font-size:36px
+}
+.imgs{
+    border: lightblue solid;
+    width:200px;
+    height:200px;
+}
+
+
+
+#sec3{
+    background-color: #e5e7eb;
+    width: auto;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#sec3 q{
+    font-size: 36px;
+    font-style: italic;
+}
+footer{
+    background-color: #1F2937;
+    height: 100px;
+    color: #f9faf8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#sec4{
+    display: flex;
+    margin: 50px;
+    padding: 50px;
+    justify-content: center;
+    align-items: center;
+    background-color:#3882f6;
+    color: #f9faf8;
+    gap: 4T0px;
+}
+#sec4 button{
+    border: #f9faf8 solid;
+}
+#sec4 #bo{
+    font-size: 24px;
+    font-weight: bold;
+}
